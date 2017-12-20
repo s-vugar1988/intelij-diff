@@ -17,6 +17,6 @@ Linux
 
 
 Use diff tool from Context menu as :
-1. Select two text file 
-2. Right click on -> file Send to -> IntellijIDEA diff
-3 Relax with IntellijIDEA diff tool :)
+* Select two text file 
+* Right click on -> file Send to -> IntellijIDEA diff
+* Relax with IntellijIDEA diff tool :)
